@@ -1,0 +1,19 @@
+.quots h1{
+    
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* font-family: "Poetsen One", sans-serif; */
+}
+.quots button{
+    background-color: #0000ff;
+    width: 250px;
+    height: 80px;
+   color: #fff;
+}
+.quots button:hover{
+    background-color: #008000;
+}
+.quots p{
+    font-size: 30px;
+}
